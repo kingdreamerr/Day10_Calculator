@@ -31,7 +31,7 @@ calculate()
 
 #### Preview:
 
-![calculator](./.png)
+![calculator](./calc.png)
 
 ## How to run this on your device
 
